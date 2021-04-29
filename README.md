@@ -1,4 +1,5 @@
 # Attention_based_model
+**Project Title**: *Attention-based End-to-End Speech-to-Text Deep Neural Network*
 
 This is a project implemented as part of my Introduction to deeplearning course. 
 The project explores the attention model and its efficiency in ensuring accurate decoding of a given encoding. For example a tradional listen spell model for language translation
